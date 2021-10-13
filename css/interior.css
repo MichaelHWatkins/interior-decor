@@ -1,0 +1,10 @@
+.column {
+  width: 300px;
+  float: left;
+  padding-right: 50px;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+}
