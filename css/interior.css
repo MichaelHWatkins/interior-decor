@@ -8,3 +8,15 @@ img {
   max-width: 300px;
   height: auto;
 }
+
+#before {
+  background-color: red;
+}
+
+#during {
+  background-color: orange;
+}
+
+#after {
+  background-color: blue;
+}
